@@ -14,7 +14,7 @@
 
 &nbsp;
 
-### JavaScript pode alterar o conteúdo HTML
+### JavaScript pode ocultar elementos HTML
 
 <a href="https://github.com/user-attachments/assets/3ad1b23a-7cf6-4552-bb04-5bb22754c945">
   <img width="100%" alt="javascript-pode-alterar-o-conteudo-html" src="https://github.com/user-attachments/assets/3ad1b23a-7cf6-4552-bb04-5bb22754c945" />

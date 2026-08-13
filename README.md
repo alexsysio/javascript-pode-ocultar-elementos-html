@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### JavaScript pode ocultar elementos HTML
+### Demonstração
 
 <a href="https://github.com/user-attachments/assets/9decc06e-2210-413c-920d-ddba6b2b4781">
   <img width="100%" alt="ocultando-elemento-paragraph" src="https://github.com/user-attachments/assets/9decc06e-2210-413c-920d-ddba6b2b4781"/>

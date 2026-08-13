@@ -14,7 +14,7 @@
 
 &nbsp;
 
-### JavaScript pode ocultar elementos HTML
+### Quando o botão Clique em mim! for clicado a função é chamada! E oculta o elemento HTML
 
 <a href="https://github.com/user-attachments/assets/d52d37d4-701e-4362-8d48-620de4517c9d">
   <img width="100%" alt="ocultando-elemento-paragraph2" src="https://github.com/user-attachments/assets/d52d37d4-701e-4362-8d48-620de4517c9d"/>
